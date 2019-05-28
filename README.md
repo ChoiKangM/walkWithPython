@@ -35,6 +35,11 @@ git remote add origin 깃레포URL
 git push origin master
 ```
 
+```
+git submodule add URL
+```
+
+
 [마크다운 작성](https://guides.github.com/features/mastering-markdown/)
 >  깃헙이 가이드 제공
 
